@@ -9,7 +9,7 @@
     "e2e_unsupported": "This share is password protected. Your browser lacks the functionality required to open such shares. Please try again with another web browser.",
     "gnss_signal_head": "Please wait",
     "gnss_signal_body": "Sender is waiting for GPS signal",
-    "point_app_to": "Point the Hauk app to this server to share your location:",
+    "point_app_to": "Location Sharing System Private Encryption Not Shared. Internal Use Only.",
     "dialog_expired_head": "Share expired",
     "dialog_expired_body": "This location share has expired.",
     "dialog_connection_head": "Connection error",
